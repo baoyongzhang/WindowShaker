@@ -4,7 +4,9 @@ WindowShaker
 android window shake
 
 # Demo
-
+<p>
+   <img src="https://raw.githubusercontent.com/baoyongzhang/WindowShaker/master/demo.gif" width="320" alt="demo"/>
+</p>
 
 # Usage
 
