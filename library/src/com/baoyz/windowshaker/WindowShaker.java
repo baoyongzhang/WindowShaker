@@ -135,7 +135,7 @@ public class WindowShaker {
 				mContext = context;
 				mOption = new Option();
 				// default
-				mOption.setmDuration(2000);
+				mOption.setmDuration(800);
 				mOption.setmOffsetX(dp2px(5));
 				mOption.setmOffsetY(dp2px(5));
 				mOption.setmRepeatCount(6);
